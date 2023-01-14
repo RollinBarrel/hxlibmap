@@ -116,7 +116,7 @@ class MapParser {
                 if (isFirst) {
                     currentPropertyValue = buf.substring(1, end);
                 } else {
-                    currentPropertyValue += buf.substring(0, end);
+                    currentPropertyValue += " " + buf.substring(0, end);
                 }
 
                 if (isLast) {
