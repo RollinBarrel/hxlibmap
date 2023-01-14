@@ -1,0 +1,14 @@
+-lib heaps
+-lib hxlibmap
+
+-main Main
+--each
+
+-lib hlsdl
+-debug
+# -D hot-reload
+-hl build.hl
+
+--next
+
+-js build.js
