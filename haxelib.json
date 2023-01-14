@@ -4,6 +4,7 @@
     "tags": ["quake", "map", "trenchbroom", "format", "bsp"],
     "description": "Trenchbroom-compatible .map parser for Haxe, port of libmap-cpp",
     "version": "1.0.0",
+    "releasenote": "Initial release",
     "contributors": ["RollinBarrel"],
     "dependencies": {
         "hxmath": ""
