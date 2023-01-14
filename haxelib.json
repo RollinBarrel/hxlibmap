@@ -1,10 +1,11 @@
 {
 	"name": "hxlibmap",
+    "url": "https://github.com/RollinBarrel/hxlibmap",
 	"license": "MIT",
     "tags": ["quake", "map", "trenchbroom", "format", "bsp"],
     "description": "Trenchbroom-compatible .map parser for Haxe, port of libmap-cpp",
     "version": "1.0.1",
-    "releasenote": "Initial release",
+    "releasenote": "restore spaces in property values",
     "contributors": ["RollinBarrel"],
     "dependencies": {
         "hxmath": ""
