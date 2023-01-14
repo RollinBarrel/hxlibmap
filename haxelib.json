@@ -3,7 +3,7 @@
 	"license": "MIT",
     "tags": ["quake", "map", "trenchbroom", "format", "bsp"],
     "description": "Trenchbroom-compatible .map parser for Haxe, port of libmap-cpp",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "releasenote": "Initial release",
     "contributors": ["RollinBarrel"],
     "dependencies": {
